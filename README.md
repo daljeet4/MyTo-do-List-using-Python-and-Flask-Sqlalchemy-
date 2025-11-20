@@ -1,0 +1,2 @@
+# MyTo-do-List-using-Python-and-Flask-Sqlalchemy-
+A simple and efficient To-Do List web application built using Python Flask and SQLAlchemy. This project allows users to add, update, delete, and manage daily tasks with a an user-friendly interface. It demonstrates core Flask concepts, database modeling with SQLAlchemy, and CRUD operations ideal for beginners learning full-stack Python development.
